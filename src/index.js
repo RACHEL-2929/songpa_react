@@ -9,7 +9,7 @@ import './index.css';
 
 //import: 해당하는 파일에 대한 펑션이나 모듈을 입력받는다.
 
-// import App from './Ex1';
+
 
 // import App from './Homerouter';
 

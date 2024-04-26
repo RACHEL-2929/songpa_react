@@ -2,6 +2,7 @@ function Ex2() {
     return ( 
         //jsx : html + javascript javascript extend
         //html : jsx tag
+        
         <div>
             <ul>
                 <li>1</li>
@@ -9,8 +10,6 @@ function Ex2() {
                 <li>3</li>
             </ul>
         </div>
-
-
 
      );
 }

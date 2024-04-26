@@ -11,6 +11,7 @@ import App from "./App";
 import Ex1 from "./Ex1";
 import Ex2 from "./Ex2";
 import Ex3 from "./Ex3";
+import for_while_dowhile_1 from './for_while_dowhile_1';
 
 
 const routeComponents = [
@@ -19,6 +20,8 @@ const routeComponents = [
     { path: "/Ex1", component: Ex1 },
     { path: "/Ex2", component: Ex2 },
     { path: "/Ex3", component: Ex3 },
+    { path: "/for_while_dowhile_1", component: for_while_dowhile_1 },
+
 
 
 ];
